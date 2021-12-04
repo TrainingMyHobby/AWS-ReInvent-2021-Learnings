@@ -1,0 +1,1 @@
+GIT_COMMITTER_NAME="Training My Hobby" GIT_COMMITTER_EMAIL="training.my.hobby@gmail.com" git commit --author="Training My Hobby <training.my.hobby@gmail.com>" $*
